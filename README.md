@@ -1,7 +1,7 @@
-## Quem eu sou? <br>
-## tambem não sei.<br>
-## Me fale voce quem eu sou o que eu sou pra voce!!!!<br>
-## Me descubra, me encontre.<br>
+## Oi, tudo bem? <br>
+## Meu nome é gustavo e este é o lugar onde coloco meus projeto e ideias em ação.<br>
+## espero que gostem das ideias e projetos e que sirva de inspiração pra vcs.<br>
+## <br>
 
 <div align="center">
   <a href="https://github.com/Gustavo-alvin">
