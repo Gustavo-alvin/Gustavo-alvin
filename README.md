@@ -24,9 +24,9 @@
 
   <p align="center">
    <h2> Sobre Mim</h2>
-🎓 Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software.
-💻 Tenho interesse em diversas áreas da tecnologia, incluindo desenvolvimento web, inteligência artificial e segurança da informação.
-🌱 Estou sempre buscando aprender algo novo e enfrentar desafios que me façam crescer como profissional.
+🎓 Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software. <br>
+💻 Tenho interesse em diversas áreas da tecnologia, incluindo desenvolvimento web, inteligência artificial e segurança da informação. <br>
+🌱 Estou sempre buscando aprender algo novo e enfrentar desafios que me façam crescer como profissional. <br>
   </p>
   
   <p align="center">
