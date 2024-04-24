@@ -37,8 +37,8 @@
 
 <div align="center">
   <a href="https://github.com/Gustavo-alvin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-alvin&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true&locale=pt-br"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-alvin&theme=dark&hide_border=false&&layout=compact&locale=pt-br"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-alvin&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true&locale=pt-br"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-alvin&theme=dark&hide_border=false&&layout=compact&locale=pt-br"/>
   </a>
 </div>
 
