@@ -1,47 +1,52 @@
-# 🚀 Olá! Seja bem-vindo(a) ao meu perfil  
+# 🚀 Gustavo Alvin
 
-Sou **Gustavo Alves**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **UNIP** e formado no **Técnico em Informática pela FIEB**.  
-
-Tenho foco em me tornar um **Desenvolvedor Full Stack**, com ênfase na construção de aplicações eficientes, escaláveis e bem estruturadas.
-
-Atualmente, estou em nível **Júnior**, dedicado ao aprendizado contínuo e à prática constante, buscando evoluir em **boas práticas de desenvolvimento**, **arquitetura de software** e **resolução de problemas reais**.
+<p align="center">
+  <b>Desenvolvedor Full Stack em formação</b><br>
+  Java • Spring Boot • React • SQL Server
+</p>
 
 ---
 
-## 💻 Stack Tecnológica
+## 👨‍💻 Sobre mim
 
-### 🔙 Back-end
-- Java  
-- Spring Boot  
-- APIs RESTful  
-- Clean Code  
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **UNIP** e formado no **Técnico em Informática pela FIEB**.  
+
+Tenho foco em me tornar um **Desenvolvedor Full Stack**, com experiência no desenvolvimento de aplicações completas, desde o back-end até o front-end.
+
+Atualmente, estou em nível **Júnior**, com dedicação constante à evolução técnica, estudando **boas práticas**, **arquitetura de software** e construção de projetos reais.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 💻 Back-end
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### 🎨 Front-end
-- React  
-- Interfaces responsivas  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🗄️ Banco de Dados
-- SQL Server  
-- Modelagem de dados  
-- Consultas e manipulação  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### ⚙️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-## ⚙️ Conhecimentos Complementares
+## 📌 Projetos em Destaque
 
-- Git e GitHub  
-- Estrutura de dados  
-- Ciclo de desenvolvimento de software  
-- Metodologias ágeis (Scrum/Kanban)  
-- Testes e depuração de aplicações  
+🔹 Em construção...
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavo-alvin&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-alvin&layout=compact&theme=radical)
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-alvin&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-alvin&layout=compact&theme=radical"/>
+</p>
 
 ---
 
@@ -53,6 +58,8 @@ Busco minha primeira oportunidade como **Desenvolvedor Júnior**, onde eu possa 
 
 ## 📫 Contato
 
-- Email: Contato.alvingustavo@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/gustavoalvin  
-- GitHub: https://github.com/Gustavo-alvin  
+<p>
+  📧 Email: <a href="mailto:Contato.alvingustavo@gmail.com">Contato.alvingustavo@gmail.com</a><br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/gustavoalvin">linkedin.com/in/gustavoalvin</a><br>
+  💻 GitHub: <a href="https://github.com/Gustavo-alvin">github.com/Gustavo-alvin</a>
+</p>
