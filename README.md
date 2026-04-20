@@ -1,6 +1,6 @@
 # 🚀 Olá! Seja bem-vindo(a) ao meu perfil  
 
-Sou **Gustavo Alvin**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **UNIP** e formado no **Técnico em Informática pela FIEB**.  
+Sou **Gustavo Alves**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **UNIP** e formado no **Técnico em Informática pela FIEB**.  
 
 Tenho foco em me tornar um **Desenvolvedor Full Stack**, com ênfase na construção de aplicações eficientes, escaláveis e bem estruturadas.
 
